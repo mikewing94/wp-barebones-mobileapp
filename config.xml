@@ -22,8 +22,7 @@
     <plugin name="org.apache.cordova.dialogs" spec="0.3.0" source="npm" />
     <plugin name="org.apache.cordova.vibration" spec="0.3.13" source="npm" />
     <plugin name="org.apache.cordova.network-information" spec="0.2.15" source="npm" />
-    <plugin name="com.simplec.plugins.localnotification" spec="0.3.5" source="npm" />
-
+	
 	<icon src="icon.png" />
 	
     <icon src="res/icons/ios/Icon.png" gap:platform="ios" width="57" height="57" />
